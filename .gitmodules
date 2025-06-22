@@ -1,3 +1,6 @@
 [submodule "braintu_fe"]
 	path = braintu_fe
 	url = https://github.com/HarshitBreaksProd/braintu_fe
+[submodule "braintu_be"]
+	path = braintu_be
+	url = https://github.com/HarshitBreaksProd/braintu_be
